@@ -1,4 +1,4 @@
-name: Deploy 🛋️ Nomie 6 CouchDB Plugin to Github Page
+name: Deploy 🔄 Nomie 6 Sync Plugin to Github Page
 
 on:
   # Runs on pushes targeting the default branch
